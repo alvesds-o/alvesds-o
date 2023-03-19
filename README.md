@@ -2,7 +2,7 @@
   <h1>Hello, World || Olá, Mundo 🗺️</h1>
   <h3> Who am i?</h3>
   <li>Name: Gabriel Alves; 😀 <br>
-  <li>Age: 22 anos; <br>
+  <li>Age: 22; <br>
   <li>Hobbies:  sports 🏃‍, music 🎵 and tech 🌐;<br>
   <h3>Career</h3>
   <li>Course: Análise e Desenvolvimento de Sistemas;💻<br>
